@@ -83,4 +83,5 @@ Highlighting the importance of structured relational modeling.
 
 - Graph modeling better captures market dynamics than flat tabular regression  
 - Heterogeneous message passing improves predictive performance  
-- Relational inductive bias provides measurable gains in valuation accuracy  
+- Relational inductive bias provides measurable gains in valuation accuracy
+- https://medium.com/@vikgarrett/predicting-nba-player-market-value-with-graph-neural-networks-18f56005a684?postPublishedType=initial 
